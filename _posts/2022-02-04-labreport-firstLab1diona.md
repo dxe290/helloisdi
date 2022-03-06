@@ -1,0 +1,20 @@
+---
+layout: post
+title: Lab1 Diona Espinosa
+subtitle: ENG 612 Prof.Thomas
+cover-img: 
+thumbnail-img: 
+share-img: 
+tags: [Lab1, labreport]
+---
+# Notebook Entry 1
+
+The first steps to start a repository using Github are simple, and it is enough to follow each one very carefully. Choosing the theme of our page can be an attractive step since it allows us to select a design that is closest to our interests. After creating a Github account, I could choose my theme, name my GitHub online repository address, and assign it to a  "master" branch. I learned how to edit the online page specifically headliners, titles, and text in general and, how Github requires that each change needs be recorded. The latter allows us to track and update the latest we are working on.
+However, at this first moment, I do not know if one Github’s theme may be hardest than the other to make the first approach to this platform. Students in class had to start over the assignment with the theme that Professor Thomas was using as an example. For these reasons, Github can be confusing for beginners and requires great care when editing and customizing the repository.
+
+From my experience with Github in this Lab1, it was a bit difficult to get my repository online. Initially, my online page gave several times errors (404). I had to repeat each step more than three times. The latter caused me to make three repositories, two of them with the same theme (beautiful-Jekyll), practically duplicated. The attempts were frustrating because I could not get any of the repositories online, even following the steps. I could not fully complete the assignment and got stuck at step eleven.
+To overcome the difficulties with the exercise and complete it, I had the professor's assistance. The latter matters for those who face this type of tool as students for the first time and do not know how to handle them; any wrong step can spoil the project. The assistance and effort in workshops for this type of class are relevant.
+
+Regarding the class, I am very excited to take this class, and it is the third one that I have about Digital Humanities. Previous courses have helped me with a theoretical background. But I consider that ENG 612 could be useful for theoretical and practical knowledge. I am particularly interested in completing my DH Certificate. Therefore, I would achieve more knowledge in Digital Humanities and have a better understanding of academic topics in this field of study. Then, be able to teach theory and practice as an academic. Thus, one of my goals is to obtain a clearer and deeper conceptual understanding of what concerns academics in the Digital Humanities today, the main research topics, and how they can be related to literary and cultural studies, specifically focused on Latin America.
+It is very crucial for me to understand how this field of study can offer new perspectives and investigations that consider other interdisciplinary perspectives. At the same time, another of my goals is to focus on how the Digital Humanities should have a greater inclination towards decolonizing theories that consider the Global South or the Black Atlantic. Then, I think that the readings in the first class, and surely later, will be valuable in these aspects. (Matthew K. Gold and Lauren F. Klein, “A DH That Matters" and, Kelly Baker Josephs and Roopika Risam, “The Digital Black Atlantic”, for example)
+Regarding the practical issue, I have a special concern for developing skills like handling tools and software often used in DH. Also, I consider that these tools will be beneficial in future research according to my research interests. My main goal ending the course is to have a well-structured and organized personal online page. Thus, I can use it as a personal presentation of my work within the academy as well as a CV. The challenge will be to do the workshops and Labs correctly to fulfill this objective. Finally, I hope to correctly develop at the end of the semester some of the tools learned for future classes and research.  
