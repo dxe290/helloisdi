@@ -8,10 +8,8 @@ share-img:
 tags: [Lab4, labreport, Voyant]
 ---
 
-## Voyant prueba
+## Voyant
 
-
-**Work in progress**
 
 1. My science corpus ID: d861c593177d5fc623ed3c1cf04a680d
 2. [My Hum corpus address](https://voyant-tools.org/?corpus=867b315d99ab2b60f406f564ff585001&panels=cirrus,reader,trends,summary,contexts)
