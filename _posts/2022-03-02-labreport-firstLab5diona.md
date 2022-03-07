@@ -23,4 +23,4 @@ tags: [Lab5, labreport, Python]
 
 
 
-**Nothebook entry**
+**Notebook entry**
