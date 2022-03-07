@@ -10,7 +10,7 @@ tags: [Lab5, labreport, Python]
 
 ## Python and the questions
 
-**Work in progress**
+**WORK IN PROGRESS**
 
 1. What do you notice about how this function has split the string “Okay, okay, ladies, now let’s get in formation, cause I slay”? What has it done that isn’t quite right, and why has it done this? Write down your response in your notes document.
 
