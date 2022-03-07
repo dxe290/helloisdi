@@ -15,3 +15,4 @@ tags: [Lab6, labreport, datasets]
 **Work in progress**
 
 **Notebook entry**
+**Self-Assesment**
