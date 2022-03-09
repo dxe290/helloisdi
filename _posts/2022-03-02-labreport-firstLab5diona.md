@@ -30,3 +30,4 @@ The dataset shows the number of occurrences of “virtu” and “vertu” per d
 **Lab6 Dataset**
 
 For Lab 6 I will work with Race Film Database. This database contains information on films, actors, production companies, and other aspects of early silent-era African American race films. 
+Therefore, this dataset is relevant personally because of my research interest related to film studies. 
