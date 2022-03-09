@@ -14,8 +14,7 @@ tags: [Lab5, labreport, Python]
 
 1. What do you notice about how this function has split the string “Okay, okay, ladies, now let’s get in formation, cause I slay”? What has it done that isn’t quite right, and why has it done this? Write down your response in your notes document.
 
-When we split the string “Okay, okay, ladies, now let’s get in formation, cause I slay”, the function divided the phrase into each individual words, but the algorithm recognized the words “let’s” as two different words, like “let” and “s”. The latter happened because the function read “let’s” with the apostrophe as an indication of a new ending of a word. In other words, it was unable to identify the punctuation marks like the function could recognize with period or comma. In order to understand why it has done this, we need to understand the command behind the function. The algorithm was designed for a machine which only identified that every term only contains letter, a non-alphabetical character is read as a new word. 
-
+When we split the string “Okay, okay, ladies, now let’s get in formation, cause I slay”, the function divided the phrase into each individual words, but the algorithm recognized the words “let’s” as two different words, like “let” and “s”. The latter happened because the function read “let’s” with the apostrophe as an indication of a new ending of a word. In other words, it was unable to identify the punctuation marks like the function could recognize with period or comma. In order to understand why it has done this, we need to understand the command behind the function. The algorithm was designed for a machine which only identified that every term only contains letter, a non-alphabetical character is read as a new word.
 
 2. What happened? Did it work as you expected? If not, what happened that you didn’t expect? Write down your response in your notes document.
 
@@ -29,3 +28,9 @@ It did work as expected. The function identified the punctuation ending the sent
 
 
 **Notebook entry**
+
+**Lab6 Dataset**
+
+For Lab 6 I will work with Race Film Database. This database contains information on films, actors, production companies, and other aspects of early silent-era African American race films. 
+
+I will work withe the dataset 
