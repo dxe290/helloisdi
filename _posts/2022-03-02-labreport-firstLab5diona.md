@@ -35,6 +35,12 @@ I definitely must confess that Python has been the tool more difficult to unders
 
 I agree with Benjamin Schmidt when he argues that Digital Humanists do not need to understand an algorithm instead of the transformation. Therefore, he says that “the alternative to understanding the meaning of transformations is to use algorithms instrumentally”. In other words, I read from this that we need to be familiar with our corpus and data, this means the topic, discourse, perspectives. Nevertheless, in terms of the Python and algorithmic logic I should be confident in the way that DSC #12 contends “but you can only get there by practicing. And you’ll only practice if it’s worth it. And it’s only worth it if it’s the only way you, as a humanist, can do the things you want to do”. 
 
+*Sources*
+
+Benjamin M. Schmidt, “Do Digital Humanists Need to Understand Algorithms?” from Debates in the Digital Humanities 2016
+
+Katherine Bowers, Quinn Dombrowski, and Roopika Risam, “DSC #12: The DSC and the New Programming Language” from The Data-Sitters Club (November 2, 2021)
+
 
 **Lab6 Dataset**
 
