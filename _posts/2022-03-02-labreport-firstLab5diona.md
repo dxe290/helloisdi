@@ -10,7 +10,6 @@ tags: [Lab5, labreport, Python]
 
 ## Python and the questions
 
-**WORK IN PROGRESS**
 
 1- What do you notice about how this function has split the string “Okay, okay, ladies, now let’s get in formation, cause I slay”? What has it done that isn’t quite right, and why has it done this? Write down your response in your notes document.
 
@@ -31,6 +30,10 @@ The expression “^” tells the computer to match the start of the string. When
 
 
 **Notebook entry**
+
+I definitely must confess that Python has been the tool more difficult to understand for me. Maybe, this is because of I need more time exploring the platform and putting the options and algorithms in dialogue with any specific and target activity or research. However, it was really hep full to “touch” and “see” what and algorithm created by a human and process by a computational program is able to do in both senses, positively, or in contra with our interests. It also demonstrated me how important is coding in DH and programming languages. The DSC # 12 by Katherine Bowers, Quinn Dombrowski, and Roopika Risam, quotes in “The Magic of Python” and how “plays” with it and “control” the computational processes inside the machine; but like this part contends there is not actually magic doing this. We are able to give instructions to the machine as a logic process, but the qualitative work important to DH and humanistic studies is to interpretate properly the results of functions, commands, expressions, algorithms. It is difficult to get know deeply how to code for an humanistic academic person, but what I learned is that we actually do not need to operate as wonderful engineers constructing complicated algorithms, what we indeed need is the meaning and purposes, the interpretated output of the computational operation: the transformation. (Schmidt)
+I agree with Benjamin Schmidt when he argues that Digital Humanists do not need to understand an algorithm instead of the transformation. Therefore, he says that “the alternative to understanding the meaning of transformations is to use algorithms instrumentally”. In other words, I read from this that we need to be familiar with our corpus and data, this means the topic, discourse, perspectives. Nevertheless, in terms of the Python and algorithmic logic I should be confident in the way that DSC #12 contends “but you can only get there by practicing. And you’ll only practice if it’s worth it. And it’s only worth it if it’s the only way you, as a humanist, can do the things you want to do”. 
+
 
 **Lab6 Dataset**
 
