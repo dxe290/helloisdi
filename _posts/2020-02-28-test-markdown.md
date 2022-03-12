@@ -12,6 +12,17 @@ comments: true
 
 Here I will post my review 
 
+*Sources:*
+
+Kalliamvakou, Eirini, et al. “The promises and perils of mining github.” Proceedings of the 11th working conference on mining software repositories. 2014.
+
+Nagappan, Mei, Craig Cabrey, and Nuthan Munaiah. “Curating GitHub for Engineered Software Projects.”
+
+Tsay, Jason, Laura Dabbish, and James Herbsleb. “Let's talk about it: evaluating contributions through discussion in GitHub.” Proceedings of the 22nd ACM SIGSOFT international symposium on foundations of software engineering. 2014.
+
+Tsay, Jason, Laura Dabbish, and James Herbsleb. “Influence of social and technical factors for evaluating contribution in GitHub.”  Proceedings of the 36th international conference on Software engineering. 2014.
+
+
 ------------------------
 
 This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
