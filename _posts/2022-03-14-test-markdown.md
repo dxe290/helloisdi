@@ -11,8 +11,7 @@ comments: true
 ![banner github](https://portswigger.net/cms/images/54/14/6efb9bc5d143-article-190612-github-body-text.jpg)
 
 
-**WORK IN PROGRESS**[^1] 
-:point_up: 
+**WORK IN PROGRESS**[^1]:point_up: 
 
 
 
