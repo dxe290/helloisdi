@@ -11,11 +11,11 @@ comments: true
 ![banner github](https://portswigger.net/cms/images/54/14/6efb9bc5d143-article-190612-github-body-text.jpg)
 
 
-**WORK IN PROGRESS**[^1]:point_up: 
+**WORK IN PROGRESS**[^1]
 
 
 
-I recently discovered [GitHub’s platform] (https://pages.github.com/) but is not “new” at all. Researchers in Digital Humanities or out this academic field have been using this tool quite often since its appearance in 2007. GitHub is a collaborative code Internet hosting provider, in other words, is an online place where a website can be a host and supported in the World Wide Web.  This tool allows to do hosting of open-source projects, and because of this, it is a popular platform with more than 73 million developers and more than 200 million repositories. The largest code hosting site nowadays! 
+I recently discovered [GitHub’s platform](https://pages.github.com/) but is not “new” at all. Researchers in Digital Humanities or out this academic field have been using this tool quite often since its appearance in 2007. GitHub is a collaborative code Internet hosting provider, in other words, is an online place where a website can be a host and supported in the World Wide Web.  This tool allows to do hosting of open-source projects, and because of this, it is a popular platform with more than 73 million developers and more than 200 million repositories. The largest code hosting site nowadays! 
 
 To begin with, the platform is designed in a really simple way if we consider that this is software for the creation and hosting of websites. Personally, I appreciated how provides for free an introduction to writing in Markdown, a standardized format for writing a plain text while encoding the structure for later representation in Word, PDF, or HTML. Moreover, GitHub has already an archive of a series of “themes” or designs that make easier not only the selection of a style but also having done the first configurative steps and elements to form a website or repository. Each component and step to follow is described inside the corpus or configuration part of the theme. Developers can create a copy of a repository and pull a request for pulling the changes into the main branch. As Tsay, Dabbish, and Herbsleb content “GitHub makes the relationships between users and work artifacts transparent. This transparency enables developers to better use information such as technical value and social connections when making work decisions” (“Influence of social and technical factors” 356). Thus, every step can be tracked, and a network of users - a social feature- along with the platform, made possible the option of sharing information, profiles, projects, and on. 
 
@@ -45,6 +45,8 @@ Tsay, Jason, Laura Dabbish, and James Herbsleb. “Let's talk about it: evaluati
 
 
 [^1]: I justed played with some features like emojis, images, footnotes, etc. 
+
+:point_up: 
 
 ------------------------
 
