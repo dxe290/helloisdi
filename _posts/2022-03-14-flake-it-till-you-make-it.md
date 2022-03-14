@@ -1,15 +1,13 @@
 ---
 layout: post
 title: Curriculum vitae
-subtitle: Example post
+subtitle: Sample post
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 tags: [CV, DH, Github]
 ---
-# Curriculum vitae sample 
-
-DIONA ESPINOSA
+# DIONA ESPINOSA
 
 Department of Modern Languages, University of Miami, Coral Gables, Miami, Florida, United States
 
