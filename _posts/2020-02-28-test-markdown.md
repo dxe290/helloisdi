@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Github’s Review, a personal beginner experience 
+title: Github’s Review, a Personal Beginner Experience 
 subtitle: Diona Espinosa, MLL 772, Prof. Schifani
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
