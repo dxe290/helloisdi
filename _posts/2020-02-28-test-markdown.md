@@ -11,6 +11,7 @@ comments: true
 **WORK IN PROGRESS**
 
 Here I will post my review 
+avatar: "/assets/img/avatar-icon.png"
 
 *Sources:*
 
