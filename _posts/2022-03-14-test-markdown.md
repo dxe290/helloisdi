@@ -44,7 +44,7 @@ Tsay, Jason, Laura Dabbish, and James Herbsleb. “Let's talk about it: evaluati
 ---. “Influence of social and technical factors for evaluating contribution in GitHub.”  Proceedings of the 36th international conference on Software engineering. 2014.
 
 
-[^1]: I justed played with some features like emojis, images, footnotes, etc. 
+[^1]: I am just playing with some features like emojis, images, footnotes, etc. 
 
 
 ------------------------
