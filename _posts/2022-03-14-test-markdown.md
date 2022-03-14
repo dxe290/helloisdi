@@ -8,10 +8,13 @@ tags: [Github, DH]
 comments: true
 ---
 
-**WORK IN PROGRESS**
+![banner github] (https://portswigger.net/cms/images/54/14/6efb9bc5d143-article-190612-github-body-text.jpg)
 
 
-I recently discovered GitHub’s platform but is not “new” at all. Researchers in Digital Humanities or out this academic field have been using this tool quite often since its appearance in 2007. GitHub is a collaborative code Internet hosting provider, in other words, is an online place where a website can be a host and supported in the World Wide Web.  This tool allows to do hosting of open-source projects, and because of this, it is a popular platform with more than 73 million developers and more than 200 million repositories. The largest code hosting site nowadays! 
+**WORK IN PROGRESS** :point_up: [^1]
+
+
+I recently discovered [GitHub’s platform] (https://pages.github.com/) but is not “new” at all. Researchers in Digital Humanities or out this academic field have been using this tool quite often since its appearance in 2007. GitHub is a collaborative code Internet hosting provider, in other words, is an online place where a website can be a host and supported in the World Wide Web.  This tool allows to do hosting of open-source projects, and because of this, it is a popular platform with more than 73 million developers and more than 200 million repositories. The largest code hosting site nowadays! 
 
 To begin with, the platform is designed in a really simple way if we consider that this is software for the creation and hosting of websites. Personally, I appreciated how provides for free an introduction to writing in Markdown, a standardized format for writing a plain text while encoding the structure for later representation in Word, PDF, or HTML. Moreover, GitHub has already an archive of a series of “themes” or designs that make easier not only the selection of a style but also having done the first configurative steps and elements to form a website or repository. Each component and step to follow is described inside the corpus or configuration part of the theme. Developers can create a copy of a repository and pull a request for pulling the changes into the main branch. As Tsay, Dabbish, and Herbsleb content “GitHub makes the relationships between users and work artifacts transparent. This transparency enables developers to better use information such as technical value and social connections when making work decisions” (“Influence of social and technical factors” 356). Thus, every step can be tracked, and a network of users - a social feature- along with the platform, made possible the option of sharing information, profiles, projects, and on. 
 
@@ -29,7 +32,7 @@ The configurative part was to start editing and customizing the “_config.yml�
 After playing with GitHub, I discovered an awesome platform for digital humanists to store and share work. At the same time, it is a rich source of data on software development. I would say that because of the huge amount of users and projects, maybe some of them are inactive or with specific or personal content not relevant to a major audience. Kalliamvakou, Eirini, et al. argues that “GitHub is also being used for free storage and as a Web hosting service; and that almost 40% of all pull requests do not appear as merged, even though they were” (92). However, the enormous possibilities that this platform offers equally open a spectrum of purposes other than code hosting or collaborative development. The latter could be an issue if we consider some uses like free storage information and more, nevertheless, is not a critic instead of an open avenue to evaluate the capability and capacity of this free and collaborative platform as a hosting service. 
 
 
-*Sources:*
+## *Sources:*
 
 Kalliamvakou, Eirini, et al. “The promises and perils of mining github.” Proceedings of the 11th working conference on mining software repositories. 2014.
 
@@ -37,8 +40,10 @@ Nagappan, Mei, Craig Cabrey, and Nuthan Munaiah. “Curating GitHub for Engineer
 
 Tsay, Jason, Laura Dabbish, and James Herbsleb. “Let's talk about it: evaluating contributions through discussion in GitHub.” Proceedings of the 22nd ACM SIGSOFT international symposium on foundations of software engineering. 2014.
 
-Tsay, Jason, Laura Dabbish, and James Herbsleb. “Influence of social and technical factors for evaluating contribution in GitHub.”  Proceedings of the 36th international conference on Software engineering. 2014.
+---. “Influence of social and technical factors for evaluating contribution in GitHub.”  Proceedings of the 36th international conference on Software engineering. 2014.
 
+
+[^1] I justed played with some features like emojis, images, footnotes, etc. 
 
 ------------------------
 
