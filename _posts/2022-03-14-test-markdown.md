@@ -11,7 +11,9 @@ comments: true
 ![banner github] (https://portswigger.net/cms/images/54/14/6efb9bc5d143-article-190612-github-body-text.jpg)
 
 
-**WORK IN PROGRESS** :point_up: [^1]
+**WORK IN PROGRESS** 
+:point_up: 
+[^1] 
 
 
 I recently discovered [GitHub’s platform] (https://pages.github.com/) but is not “new” at all. Researchers in Digital Humanities or out this academic field have been using this tool quite often since its appearance in 2007. GitHub is a collaborative code Internet hosting provider, in other words, is an online place where a website can be a host and supported in the World Wide Web.  This tool allows to do hosting of open-source projects, and because of this, it is a popular platform with more than 73 million developers and more than 200 million repositories. The largest code hosting site nowadays! 
