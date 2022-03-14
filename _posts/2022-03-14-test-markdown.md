@@ -46,7 +46,6 @@ Tsay, Jason, Laura Dabbish, and James Herbsleb. “Let's talk about it: evaluati
 
 [^1]: I justed played with some features like emojis, images, footnotes, etc. 
 
-:point_up: 
 
 ------------------------
 
