@@ -7,7 +7,7 @@ thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 tags: [CV, DH, Github]
 ---
-# **Curriculum vitae sample **
+# Curriculum vitae sample 
 
 DIONA ESPINOSA
 
