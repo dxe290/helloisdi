@@ -11,9 +11,11 @@ tags: [CV, DH, Github]
 
 
 DIONA ESPINOSA 
+
 Curriculum Vitae 
-Department of Modern Languages, University of Miami
-Coral Gables, Miami, Florida, United States
+
+Department of Modern Languages, University of Miami, Coral Gables, Miami, Florida, United States
+
 dxe290@miami.edu 
 
 ## EDUCATION
