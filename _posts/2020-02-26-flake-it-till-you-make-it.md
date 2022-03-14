@@ -44,7 +44,7 @@ Cuban and Latin American documentary/ Transmedia narratives/Cuban contemporary p
 
 ## GRANTS AND AWARDS 
 
-**March 2021
+**March 2021**
 
 Annual Digital Humanities Graduate Student Fellowships, MLL, University of Miami, FL, United States.
 
@@ -126,10 +126,12 @@ Multimedia Journalist, Univision Communications Inc., New Mexico, United States.
 Reporter, anchor, social media management, research journalist, experience with publicity, editing and camera. 
 
 **2017**
+
 Producer and co-founder of the Cuban audiovisual production Network Encuadre, Havana, Cuba. 
 Network and online catalogue of Cuban cinema. 
 
 **2016-2017**
+
 Producer and designer of the architecture and communication information for the website Bach Media, Bach Media Film Producer Company, New York City- Miami, United States.
 Producer and designer, social media management, journalist.
 
@@ -214,10 +216,12 @@ Panelist and chair, 3rd Annual Crossroads Humanities Student Conference, Nova So
 Proposal accepted for the Annual conference of Popular Culture Association, Philadelphia, April 15-19, 2020. (Canceled COVID 19)
 
 **November 2019**
+
 “«Antigonón, un contingente épico». Acercamiento al tema de la contracultura y el hombre mítico revolucionario en la nueva dramaturgia y escena cubanas.”
 Cuban Studies Program Graduate Student Symposium: New Voices in Cuba Studies, November 15th, 2019, Harvard University, Cambridge, Massachusetts, United States. 
 
 **November 2019**
+
 Workshop NY Corridor Spanish-Latin American Studies Student Colloquium, November 8th, 2019, Syracuse University, Syracuse, NY, United States.
 
 **October 2019**
