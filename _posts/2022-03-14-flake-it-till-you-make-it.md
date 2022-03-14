@@ -3,8 +3,6 @@ layout: post
 title: Curriculum vitae
 subtitle: Sample post
 cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
 tags: [CV, DH, Github]
 ---
 # DIONA ESPINOSA
