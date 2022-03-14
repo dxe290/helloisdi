@@ -100,6 +100,7 @@ Assistant student, Santiago Alvarez’s Chair of cinematographic journalism, Com
 ## PROFESSIONAL EXPERIENCE
 
 **August 2020**
+
 Research Assistant, Department of Modern Languages 
 University of Miami, Miami, United States
 
@@ -166,6 +167,7 @@ Independent journalist, OnCuba Magazine, Cuba-United States
  La zozobra en el ojo del huracán. Entrevistas sobre el documental cubano realizado en el periodo especial. Editorial Sed de Belleza, Cuba 2015. 
 
 **Reviewed in:**
+
 - Review of Diona Espinosa Naranjo. La zozobra en el ojo del huracán: entrevistas sobre el documental cubano realizado en el periodo especial. 2015. MARLAS Journal, by Anne Marie Stock. Retrieved in marlasjournal.com/articles/abstract/281/
 - La zozobra en el ojo del huracán: libro imprescindible sobre el documental cubano en los tiempos del período especial. Retrieved in: elcineescortar.com/2018/02/09/la-zozobra-en-el-ojo-del-huracan-documental-cubano-en-periodo-especial/
 - Documental cubano realizado en el Periodo Especial. Retrieved in claustrofobias.com/2016/09/documental-cubano-realizado-periodo-especial/
@@ -174,6 +176,7 @@ Independent journalist, OnCuba Magazine, Cuba-United States
 - Las imágenes ausentes del documental cubano. Retrieved in: oncubamagazine.com/columnas/las-imagenes-ausentes-del-documental-cubano/
 
 **Magazines**
+
  “Acercamiento al cine de François Trufautt”. Enfoco, no.48. International Film School of San Antonio de los Baños (EICTV), Cuba, 2015, p.6-7
 “El cine de Lance Weiler”. Enfoco, no. 49. International Film School of San Antonio de los Baños (EICTV), Cuba, 2015, p.12.
 “El cine de Henry Jenkins”. Enfoco, no. 49. International Film School of San Antonio de los Baños (EICTV), Cuba, 2015, p.17. 
@@ -212,6 +215,7 @@ Panelist and chair, 3rd Annual Crossroads Humanities Student Conference, Nova So
 41st Conference Middle Atlantic Council of Latin American Studies (MACLAS), Stony Brook University, NY, United States.
 
 **April 2020**
+
 “Otra mirada al clásico Antígona: elementos de cultura popular y la escena como estrado de resistencia ante el poder”
 Proposal accepted for the Annual conference of Popular Culture Association, Philadelphia, April 15-19, 2020. (Canceled COVID 19)
 
@@ -225,6 +229,7 @@ Cuban Studies Program Graduate Student Symposium: New Voices in Cuba Studies, No
 Workshop NY Corridor Spanish-Latin American Studies Student Colloquium, November 8th, 2019, Syracuse University, Syracuse, NY, United States.
 
 **October 2019**
+
 Organizer and Panelist during the panel “Cuban Contemporary Documentary Cinema”, October 24th, 2019, Spanish Department, Department of Language, Literatures and Cultures, University at Albany, SUNY, NY, United States.
 
 **March 2019**
@@ -251,6 +256,7 @@ Talkatory “Nuevas Narrativas Audiovisuales según Rosa Teichmann”, Confluenc
 del lente, Havana, Cuba 
 
 **December 2015**
+
 International Conference of Unión Latina de la Economía Política de la Información, la Comunicación y la Cultura (ULEPICC), Havana, Cuba. 
 March 2015
 Workshop “Documental Hoy: Límites difusos entre la (no) ficción”. XIII International documentary festival “Santiago Álvarez in Memoriam”, Santiago de Cuba, Cuba. 
@@ -307,8 +313,11 @@ University in the High School Program (UHS) Spanish Day, University at Albany, S
 ## REFERENCES
 
 Ph.D. Ilka Kressner, University at Albany, NY, United States xxxx@albany.edu
+
 Ph.D. Carmen Serrano, University at Albany, SUNY United States xxx@albany.edu
+
 Ph.D. Monica Lugones, University of Havana, Havana, Cuba xxx@fcom.uh.cu
+
 Ph.D. Abel Somohano, Ibero-american University, Mexico City, Mexico xxxx@gmail.com 
 
 Last updated 03/ 2022
