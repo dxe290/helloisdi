@@ -10,9 +10,9 @@ tags: [Abstract, final project]
 
 ## Abstract
 
-**Young Latin American Documentary Filmmaking Archive and Database
+**Young Latin American Documentary Filmmaking Archive and Database**
 
-*WORK IN PROGRESS 
+*WORK IN PROGRESS*
 
 Abstract 
 
