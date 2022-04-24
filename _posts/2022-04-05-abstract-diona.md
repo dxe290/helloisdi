@@ -12,7 +12,7 @@ tags: [Abstract, final project]
 
 **Young Latin American Documentary Filmmaking Archive and Database**
 
-*This proposal muted to the Cuban Documentary Filmmaking Archive and Database. Most of the main ideas, objectives and goals should be developed in the Final Proposal****
+*This proposal muted to the Cuban Documentary Filmmaking Archive and Database. Most of the main ideas, objectives and goals should be developed in the Final Proposal*
 
 Abstract 
 
