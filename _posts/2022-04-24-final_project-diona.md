@@ -14,7 +14,7 @@ tags: [final project]
 
 *WORK IN PROGRESS*
 
-Link to the codebook:
+Link to the codebook:[https://docs.google.com/spreadsheets/d/1LemMS5aQZcen9qQjkA31Mffw9kRDegzlgHdLCHq7NsE/edit?usp=sharing]
 
 Link to the dataset: 
 
