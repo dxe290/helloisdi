@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Final project Diona Espinosa
+title: Final Project Diona Espinosa
 subtitle: ENG 612 Prof.Thomas
 cover-img:
 thumbnail-img: 
