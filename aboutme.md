@@ -6,13 +6,15 @@ subtitle: CV
 
 Diona Espinosa 
 
+### Academic CV
+
 The Michelle Bowman Underwood Department of Modern Languages and Literatures
 University of Miami, Coral Gables, Miami, Florida
 Last updated 02/2024
 ORCID: http://orcid.org/0000-0002-5745-798X 
 
 
-EDUCATION
+<sub>EDUCATION</sub> 
 
 ABD, Ph.D. in Literary, Cultural, and Linguistic Studies (Spanish), The Michelle Bowman 
 Underwood Department of Modern Languages and Literatures, University of Miami, Miami, Florida. Expected dissertation defense: May 2025,
@@ -331,11 +333,3 @@ REFERENCES
 Ph.D. Lillian Manzor, Chair, Professor of Spanish, The Michelle Bowman Underwood Department of Modern Languages and Literatures, University of Miami, lmanzor@miami.edu 
 Dr. Logan Connors, Chair of the Department, Professor of French, The Michelle Bowman Underwood Department of Modern Languages and Literatures, University of Miami, logan.connors@miami.edu 
 Dr. Allison Schifani, Associate Professor of Modern Languages and Literatures, The Michelle Bowman Underwood Department of Modern Languages and Literatures, University of Miami, ams611@miami.edu 
-
-
-
-
-
-### My story
-
-I am an ABD PhD graduate student
