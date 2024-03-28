@@ -15,10 +15,11 @@ author: Diona Espinosa
 
 navbar-links:
   CV: "aboutme"
+  Teaching: "aboutme"
   Projects:
-    - Digital Humanities Certificate: "https://beautifuljekyll.com"
+    - Digital Humanities Certificate: "https://www.markdowntutorial.com/"
     - Dissertation Project: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Blog: "https://deanattali.com"
 
 # --- Logo --- #
 
