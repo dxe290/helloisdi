@@ -1,29 +1,33 @@
 ---
 layout: page
-title: About me
-subtitle: CV
+title: CV
+subtitle: academic
 ---
 
-Diona Espinosa 
 
-### Academic CV
+### Diona Espinosa
 
 The Michelle Bowman Underwood Department of Modern Languages and Literatures
 University of Miami, Coral Gables, Miami, Florida
+
 Last updated 02/2024
+
 ORCID: http://orcid.org/0000-0002-5745-798X 
 
 
 <sub>EDUCATION</sub> 
 
 ABD, Ph.D. in Literary, Cultural, and Linguistic Studies (Spanish), The Michelle Bowman 
-Underwood Department of Modern Languages and Literatures, University of Miami, Miami, Florida. Expected dissertation defense: May 2025,
+Underwood Department of Modern Languages and Literatures, University of Miami, Miami, Florida. 
+Expected dissertation defense: May 2025,
+
 Dissertation Movements of Contemporary Documentary Theater in the Digital Era. The case of Cuba and Puerto Rico
 Dissertation Committee
-Dr. Lillian Manzor (Chair, Professor of Spanish)
-Dr. Logan Connors (Chair of the Department, Professor of French)
-Dr. Allison Schifani (Associate Professor of Modern Languages and Literatures)  
-Dr. Terri Francis (Associate Professor of Cinematic Arts, School of Communication, UM)
+
+- Dr. Lillian Manzor (Chair, Professor of Spanish)
+- Dr. Logan Connors (Chair of the Department, Professor of French)
+- Dr. Allison Schifani (Associate Professor of Modern Languages and Literatures)  
+- Dr. Terri Francis (Associate Professor of Cinematic Arts, School of Communication, UM)
 
 M.A. in Cultural Studies and Literature (Spanish), Department of Languages, Literatures and 
 Cultures, 2018- 2020, University at Albany, SUNY, Albany, NY, United States
@@ -35,7 +39,7 @@ Diplomado en Humanismo y Sociedad (Diploma in Humanism and Society) 2015, Albert
 Hurtado University, Santiago de Chile, Chile 
 
 
-ACADEMIC EMPLOYMENT 
+<sub>ACADEMIC EMPLOYMENT</sub> 
 
 September 2020-present 
 2021-2022	Teaching Assistant	
@@ -55,12 +59,12 @@ Assistant student, Santiago Alvarez’s Chair of Cinematographic Journalism, Com
 Faculty, University of Havana and Cuban Institute of Cinematographic Arts and Industry (ICAIC), Havana, Cuba. Mentoring one of the talks about Cuban Documentary in the Special Period. 
 
 
-RESEARCH INTERESTS
+<sub>RESEARCH INTERESTS</sub> 
 
 Documentary Filmmaking/ Performance Studies/ Digital Humanities/ Twentieth- and Twenty-First-Century Latin American Literature
 
 
-PUBLICATIONS
+<sub>PUBLICATIONS</sub> 
 
 Book:
 La zozobra en el ojo del huracán. Entrevistas sobre el documental cubano realizado en el 
@@ -89,14 +93,19 @@ Rev. of Bretton White. Staging Discomfort: Performance and Queerness in Contempo
 Cuba, Skene Journal, vol.8, no.2, pp.285-292
 
 Journalism Pieces
+
 “Acercamiento al cine de François Trufautt. Enfoco, no.48. International Film School of San Antonio de los Baños (EICTV), Cuba, 2015, pp.6-7
+
 “El cine de Lance Weiler.” Enfoco, no. 49. International Film School of San Antonio de los Baños (EICTV), Cuba, 2015, p.12.
+
 “El cine de Henry Jenkins.” Enfoco, no. 49. International Film School of San Antonio de los Baños (EICTV), Cuba, 2015, p.17. 
+
 “Evocación a Fernando Birri.” Enfoco, no. 51. International Film School of San Antonio de los Baños (EICTV), Cuba, 2015, p.6. 
+
  “Gustavo Pérez. Me gustaría trascender, pero no me preocupa.” El Caimán Barbudo, nov. 15, 2015, Retrieved in: caimanbarbudo.cu/entrevistas/2015/11/me-gustaria-trascender-pero-no-me-preocupa/ 
 
 
-HONORS AND AWARDS 
+<sub>HONORS AND AWARDS</sub> 
 
 Institute for Advanced Study of the Americas (UMIA) Distinguished Fellowship 2023-2024, 
 University of Miami, Coral Gables, FL, August 2023- May 2024. 
@@ -126,13 +135,11 @@ Albany, SUNY, NY.  Spring 2018
 
 Sed de Belleza Award, Sed de Belleza Editorial, Santa Clara, Cuba. 2015
 
-
-
 Research Paper Award, National Audiovisual and Theoretical Competition Ania Pino in 
 Memoriam, Union of Cuban Journalists (Unión de Periodistas de Cuba, UPEC), Havana, Cuba. 2015
 
 
-INVITED TALKS AND PEER REVIEW
+<sub>INVITED TALKS AND PEER REVIEW</sub> 
 
 Peer review submission for article publication in the Middle Atlantic Review of Latin American 
 Studies journal, MARLAS, May 2021. 
@@ -140,12 +147,12 @@ Studies journal, MARLAS, May 2021.
 “Cuban Contemporary Documentary Cinema,” with the graduate student Lázaro González, 
 University of Connecticut, October 24th, 2019, Department of Languages, Literatures and Cultures, University at Albany, SUNY, NY. October 2019 
 
-Speaker, Santiago Alvarez’s Chair of cinematographic journalism, Communication Faculty, 
+Speaker, Santiago Alvarez’s Chair of Cinematographic Journalism, Communication Faculty, 
 University of Havana and Cuban Institute of Cinematographic Arts and Industry (ICAIC), Havana, Cuba. September 2015
 
 
 
-CONFERENCES 
+<sub>CONFERENCES</sub>  
 
 “Issues and Features with the Platform: Performance during Pandemic Times,” LASA 2023
 Hybrid Congress: América Latina y el Caribe: Pensar, Representar y Luchar por los Derechos. 24–27 May 2023
@@ -165,9 +172,6 @@ Kentukis by Samantha Swcheblin,” 3rd Annual Crossroads Humanities Student Conf
 “Otra mirada al clásico Antígona: elementos de cultura popular y la escena como estrado de
 resistencia ante el poder,” Proposal accepted for the Annual conference of Popular Culture Association, Philadelphia, 15-19 April 2020. (Canceled COVID 19). 
 
-
-
-
 “Antigonón, un contingente épico: Acercamiento al tema de la contracultura y el hombre mítico
 revolucionario en la nueva dramaturgia y escena cubanas,” Cuban Studies Program Graduate Student Symposium: New Voices in Cuban Studies, Harvard University, Cambridge, Massachusetts, 15 November 2019
  
@@ -181,13 +185,12 @@ Latin America Graduate Student Symposium, Department of Languages, Literatures a
 American Studies Association, LASA, NY. May 2016, and International Conference of Unión Latina de la Economía Política de la Información, la Comunicación y la Cultura (ULEPICC), Havana, Cuba. December 2015 
  
 
-TEACHING INTERESTS
+<sub>TEACHING INTERESTS</sub> 
 
 Film studies/ Performance Studies/ Digital Humanities/ Twentieth- and Twenty-First-Century Latin American Literature / Spanish
 
 
-
-TEACHING EXPERIENCE
+<sub>TEACHING EXPERIENCE</sub> 
 
 Teaching Assistant
 The Michelle Bowman Underwood Department of Modern Languages and Literatures University of Miami 
@@ -202,7 +205,8 @@ ASPN 101 –Elementary Spanish I
 ASPN 102 –Elementary Spanish II
 
 
-PEDAGOGICAL TRAINING
+
+<sub>PEDAGOGICAL TRAINING</sub> 
 
 May 2022
 Cengage World Language Focus Group for World Language Courses and Digital Learning. 
@@ -216,7 +220,7 @@ Spring 2019
 Course in Linguistics, Second Language Acquisition, Spring 2019, University at Albany
 
 
-DIGITAL HUMANITIES TRAINING WORKSHOPS  
+<sub>DIGITAL HUMANITIES TRAINING WORKSHOPS</sub>  
 
 April 2021
 Crossroads Digital Humanities Workshop, 3rd Annual Crossroads Humanities Student
@@ -234,7 +238,7 @@ Stop Using Word. Just Write Markdown! Modern Languages and Literatures Departmen
 University of Miami
 
 
-ADDITIONAL TRAINING
+<sub>ADDITIONAL TRAINING</sub> 
 
 Workshop NY Corridor Spanish Latin American Studies Student Colloquium, Syracuse 
 University, Syracuse, NY. November 2019
@@ -262,7 +266,7 @@ Havana, Cuba. (EICTV), Cuba. 2014
 
 
 
-PROFESSIONAL MEMBERSHIPS
+<sub>PROFESSIONAL MEMBERSHIPS</sub> 
 
 Latin American Studies Association (LASA), 2015- present 
 Middle Atlantic Council of Latin American Studies (MACLAS), January 2019 –2021 
@@ -272,15 +276,15 @@ Sociedad Nacional Honoraria Hispánica, Sigma Delta Pi, USA, 2019-present
 Popular Culture Association (PCA), Unites States, 2019-2020
 
 
-LANGUAGES
+<sub>LANGUAGES</sub> 
 
 Spanish – Native
 English – Superior
 French – Advanced Mid
 
 
+<sub>OTHER RELEVANT WORK EXPERIENCE</sub> 
 
-OTHER RELEVANT WORK EXPERIENCE
 November 2020- May 2021
 Substitute teacher PreK, K-8, K-12 (Spanish, Arts, Sciences), School Professionals, Miami, New 
 York, United States
@@ -289,7 +293,8 @@ Substitute Teacher High School (Spanish, Arts, Theology), School Professionals, 
 York, United States
 
 
-JOURNALISTIC PROFESSIONAL EXPERIENCE 
+<sub>JOURNALISTIC PROFESSIONAL EXPERIENCE</sub> 
+
 2017 
 Producer and co-founder of the Cuban audiovisual production Network Encuadre, Havana, 
 Cuba. Network and online catalog of Cuban cinema. 
@@ -321,7 +326,7 @@ Cinematographic Arts and Industry (ICAIC), Havana, Cuba.
 Independent journalist, OnCuba Magazine, Cuba-United States 
 	
 
-VOLUNTEER AND COMMUNITY WORK 
+<sub>VOLUNTEER AND COMMUNITY WORK</sub> 
 
 Community 
 University in the High School Program (UHS) Spanish Day, University at Albany, SUNY, 
@@ -329,7 +334,10 @@ NY, United States, April 2019
 
 
 
-REFERENCES
-Ph.D. Lillian Manzor, Chair, Professor of Spanish, The Michelle Bowman Underwood Department of Modern Languages and Literatures, University of Miami, lmanzor@miami.edu 
+<sub>REFERENCES</sub> 
+
+Ph.D. Lillian Manzor, Chair, Professor of Spanish, The Michelle Bowman Underwood Department of Modern Languages and Literatures, University of Miami, lmanzor@miami.edu
+
 Dr. Logan Connors, Chair of the Department, Professor of French, The Michelle Bowman Underwood Department of Modern Languages and Literatures, University of Miami, logan.connors@miami.edu 
+
 Dr. Allison Schifani, Associate Professor of Modern Languages and Literatures, The Michelle Bowman Underwood Department of Modern Languages and Literatures, University of Miami, ams611@miami.edu 
