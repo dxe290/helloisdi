@@ -15,7 +15,7 @@ author: Diona Espinosa
 
 navbar-links:
   CV: "aboutme"
-  Teaching: "teaching"
+  Teaching: "aboutme"
   Projects:
     - Digital Humanities Certificate: "https://www.markdowntutorial.com/"
     - Dissertation Project: "https://www.markdowntutorial.com/"
